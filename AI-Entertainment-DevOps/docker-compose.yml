@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  entertainment-app:
+    build: .
+    container_name: entertainment-react
+    ports:
+      - "80:80"
+    restart: always
