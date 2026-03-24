@@ -115,6 +115,6 @@ This project highlights how containerization and orchestration:
 
 It serves as a foundational DevOps implementation for cloud-native entertainment platforms.
 
----
+--
 
 🎓 Developed as part of the Skill Based Course at **Medicaps University** in collaboration with **Datagami**.
