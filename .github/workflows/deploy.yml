@@ -22,5 +22,6 @@ jobs:
           script: |
             cd Dockerized-Entertainment-React-Service
             git pull
+            cd AI-Entertainment-DevOps
             docker-compose down
             docker-compose up -d --build
