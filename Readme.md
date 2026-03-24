@@ -3,7 +3,7 @@
 > 👥 **Group No:** D6 - Group 03  
 > 🆔 **Project No:** DO-14  
 
----
+
 
 ## 📌 Project Description  
 
@@ -17,7 +17,7 @@ The goal is to automate the **build, test, and deployment lifecycle** of a React
 
 By integrating CI/CD pipelines, the system eliminates manual deployment steps and ensures **consistent, scalable, and reliable application delivery**.
 
----
+
 
 ## 🏗️ Project Overview  
 
@@ -41,7 +41,7 @@ Kubernetes manages:
 
 ✅ The entire lifecycle — from code commit to live deployment — is automated with minimal human intervention.
 
----
+
 
 ## 🎯 Objectives  
 
@@ -60,7 +60,7 @@ Ensure zero-downtime deployments and self-healing capabilities through Kubernete
 ### 5️⃣ Continuous Integration & Delivery  
 Automate testing, building, and deployment using Jenkins or GitHub Actions.
 
----
+
 
 ## 🛠️ Tech Stack  
 
@@ -73,7 +73,7 @@ Automate testing, building, and deployment using Jenkins or GitHub Actions.
 | 🎨 Frontend | React.js |
 | 📦 Container Registry | Docker Hub / GitHub Container Registry |
 
----
+
 
 ## ⭐ Key Features  
 
@@ -83,7 +83,7 @@ Automate testing, building, and deployment using Jenkins or GitHub Actions.
 - 🗂️ **Version Control Integration** – Git-based workflow.  
 - 🚀 **Rolling Updates** – Zero-downtime application updates.
 
----
+
 
 ## 👥 Group Members  
 
@@ -92,7 +92,7 @@ Automate testing, building, and deployment using Jenkins or GitHub Actions.
 - **MUSKAN ASIJA** – EN22CS301623  
 - **MOHD QUASIM** – EN22CS301603  
 
----
+
 
 ## 🏁 Conclusion  
 
