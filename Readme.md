@@ -13,7 +13,7 @@ The goal is to automate the **build, test, and deployment lifecycle** of a React
 
 - 🐳 Docker (Containerization)  
 - ☸️ Kubernetes (Orchestration)  
-- 🔄 Jenkins / GitHub Actions (CI/CD)  
+- 🔄 GitHub Actions (CI/CD)  
 
 By integrating CI/CD pipelines, the system eliminates manual deployment steps and ensures **consistent, scalable, and reliable application delivery**.
 
