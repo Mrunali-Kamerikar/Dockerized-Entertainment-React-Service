@@ -68,7 +68,7 @@ Automate testing, building, and deployment using Jenkins or GitHub Actions.
 |----------|-------------------------|
 | 🔧 Version Control | Git, GitHub |
 | 🐳 Containerization | Docker |
-| 🔄 CI/CD | Jenkins / GitHub Actions |
+| 🔄 CI/CD | GitHub Actions |
 | ☸️ Orchestration | Kubernetes (K8s) |
 | 🎨 Frontend | React.js |
 | 📦 Container Registry | Docker Hub / GitHub Container Registry |
